@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Industrial Engineering student on a mission to optimize, innovate, and make a positive impact. My journey includes:
+I'm a passionate Industrial Engineer on a mission to optimise, innovate, and make a positive impact to the world. My journey includes:
 
 - 🚀 Pursuing an MEng(Research) at Stellenbosch University, focusing on graph-based algorithmic trading.
 - 💡 Exploring graph-based machine learning.
@@ -12,8 +12,8 @@ I'm a passionate Industrial Engineering student on a mission to optimize, innova
 
 - 👔 **Internship at Grand Foods Meat Plant**: Gained hands-on experience in process optimization and quality assurance, contributing to enhanced efficiency and production.
 
-🔧 **Skills**: Angular · JavaScript · HTML · CSS · Node.js · Quality Assurance · Data Analysis · Problem Solving · Collaboration · Critical Thinking
+🔧 **Skills**: Python · Technical writing · Communication · Leadership · Angular · JavaScript · HTML · CSS · Node.js · Quality Assurance · Data Analysis · Problem Solving · Collaboration · Critical Thinking
 
-In my free time, I'm an avid gym-goer and a dedicated reader. Some of my favorites: "Can't Hurt Me" by David Goggins and "The 5 AM Club" by Robin Sharma. I'm also a podcast enthusiast, with top picks like "Diary of a CEO," "The Ed Mylett Show," "PBD Podcast," and "REAL AF with Andy Frisella."
+In my free time, I'm an avid gym-goer and a dedicated reader. Some of my favorites: "Can't Hurt Me" by David Goggins and "The 5 AM Club" by Robin Sharma.
 
-Excited about the future of industrial engineering and algorithmic trading. Let's connect and explore the possibilities!
+Excited about the future of machine learning and algorithmic trading. Let's connect and explore the possibilities!
